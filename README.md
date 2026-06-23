@@ -66,5 +66,5 @@ This project reminded me that building features is only half the work debugging 
 A lot of time was spent tracking down issues related to button clicks, event listeners, audio playback, and UI behavior. Although frustrating at times, solving those problems helped me better understand how JavaScript interacts with the DOM and how to use browser developer tools effectively.
 Overall, this project significantly improved my confidence in frontend development and JavaScript debugging.
 
-## 🎧 Built for learning, debugging, and enjoying music.
+## Built for learning, debugging, and enjoying music.
 
